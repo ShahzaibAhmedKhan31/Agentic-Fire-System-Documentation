@@ -1,4 +1,11 @@
-# Agentic Fire Detection System
+<h1 style="text-align: center; font-size: 32px; font-weight: 600; margin-top: 20px;">
+  Agentic Fire Detection System
+</h1>
+
+<div style="text-align: center;">
+  <img src="Images/Modern Tech-Focused Logo with Flame and Circuitry.png" alt="Agentic Fire Detection System" width="600">
+</div>
+
 
 ## Table of Contents
 
@@ -9,13 +16,8 @@
 6. [System Architecture](#system-architecture)
 7. [Alert Structure](#alert-Structure)
 8. [Results](#results)
-9. [Demo Video](#demo-video)
-<!-- 8. [Workflow](#workflow)
-9. [Features](#features)
-10. [Challenges & Limitations](#challenges--limitations)
-11. [Future Enhancements](#future-enhancements)
-12. [Conclusion](#conclusion)
-13. [References](#references) -->
+9. [Demo](#demo)
+10. [Future Enhancements](#future-enhancements)
 
 ## Problem Statement:
 
@@ -58,7 +60,9 @@ The model was trained using **YOLOv11** on a dataset of fire and smoke images. T
 
 ### Training Graph
 
-![alt text](Images/training_graphs.png)
+<div>
+  <img src="Images/training_graphs.png" alt="Agentic Fire Detection System" width="500">
+</div>
 
 ### Final Validation Results
 
@@ -79,7 +83,9 @@ The model was trained using **YOLOv11** on a dataset of fire and smoke images. T
 
 ## System Architecture
 
-![alt text](Images/AI-Fire-detector-Diagram.png)
+<div>
+  <img src="Images/AI-Fire-detector-Diagram.png" alt="Agentic Fire Detection System" width="500">
+</div>
 
 The workflow follows a structured pipeline from data ingestion to
 emergency notification:
@@ -131,11 +137,32 @@ data blocks:
 
 ## Results
 
+### WhatsApp Alert 🚨
+
+<div>
+  <img src="Images/Whatsapp-alert.PNG" alt="Agentic Fire Detection System" width="500">
+</div>
+
+### Gmail Alert 🚨
+
+<div>
+  <img src="Images/Gmail-Alert.PNG" alt="Agentic Fire Detection System" width="500">
+</div>
 
 -----------------------------------------
 
 
-## Demo Video
+## Demo
 
+<div>
+<video controls src="Video/agentic-fire-detection-system - Video.mp4" title="Title"></video>
+</div>
+
+
+-----------------------------------------
+
+## Future Enhancements
+
+The system will evolve into a fully autonomous emergency response platform. A voice-call agent will be integrated to automatically notify registered firefighters with structured incident details upon verified detection. Model performance will be further optimized through dataset expansion, advanced fine-tuning, and enhanced validation strategies to minimize false alerts. Direct live CCTV integration via RTSP streams will enable continuous real-time monitoring. Finally, the solution will be deployed as a scalable, cloud-based product capable of supporting multi-location environments such as malls, industries, and smart cities.
 
 -----------------------------------------
