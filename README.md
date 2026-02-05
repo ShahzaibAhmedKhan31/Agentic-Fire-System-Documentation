@@ -58,7 +58,7 @@ The model was trained using **YOLOv11** on a dataset of fire and smoke images. T
 
 ### Training Graph
 
-![alt text](image-1.png)
+![alt text](Images/training_graphs.png)
 
 ### Final Validation Results
 
