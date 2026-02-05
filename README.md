@@ -154,10 +154,7 @@ data blocks:
 
 ## Demo
 
-<div>
 <video controls src="Video/agentic-fire-detection-system - Video.mp4" title="Title"></video>
-</div>
-
 
 -----------------------------------------
 
