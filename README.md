@@ -154,7 +154,11 @@ data blocks:
 
 ## Demo
 
-<video controls src="Video/agentic-fire-detection-system - Video.mp4" title="Title"></video>
+<!-- Attempt to embed video (may not work on GitHub) -->
+<video controls src="Video/agentic-fire-detection-system - Video.mp4" title="Agentic Fire Detection System"></video>
+
+<!-- Fallback clickable link -->
+[Click here to view the video](https://drive.google.com/file/d/1Mg3Xb7BliNExx7XrnWDpeEJEJJhyGU13/view?usp=sharing)
 
 -----------------------------------------
 
